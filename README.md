@@ -1,6 +1,7 @@
 # Flowwise Dental 🦷
 
 > A modern, multi-tenant dental clinic management system built with TypeScript, Next.js, and Express.
+> Main [Case Study File](./CASE-STUDY.md) 
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black.svg)](https://nextjs.org/)
