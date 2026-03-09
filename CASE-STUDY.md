@@ -79,7 +79,7 @@ All browser traffic goes through Next.js rewrites on Vercel — this keeps cooki
 ```
 Browser → https://flow-wise-alpha.vercel.app/api/v1/patients
            ↓  Next.js rewrite (next.config.ts)
-          https://flowwise-production-a4ab.up.railway.app/api/v1/patients
+          https://dummy-backend-url.up.railway.app/api/v1/patients
            ↓  Express middleware chain
           Neon PostgreSQL (WebSocket pool via @neondatabase/serverless)
 ```
