@@ -26,7 +26,7 @@ Dental CRM is a comprehensive practice management solution designed specifically
 ### Tech Stack
 
 **Frontend:**
-- Next.js 14+ (App Router)
+- Next.js 16 (App Router)
 - React 18+
 - TailwindCSS + shadcn/ui
 - TypeScript
