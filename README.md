@@ -53,16 +53,6 @@ Dental CRM is a comprehensive practice management solution designed specifically
 - pnpm 8.x or higher
 - PostgreSQL database (or Neon account)
 
-## 📚 Documentation
-
-| Document | Description |
-|----------|-------------|
-| [API Reference](./docs/API.md) | Complete API documentation with examples |
-| [Architecture](./docs/ARCHITECTURE.md) | System design, database schema, patterns |
-| [Deployment Guide](./docs/DEPLOYMENT.md) | Production deployment to Vercel/Railway |
-| [Troubleshooting](./docs/TROUBLESHOOTING.md) | Common issues and solutions |
-| [Contributing](./docs/CONTRIBUTING.md) | Development workflow and guidelines |
-
 ---
 
 ## 📁 Project Structure
@@ -148,10 +138,9 @@ Browser → Vercel (/api/*) → Rewrite → Railway → Response
 
 ## 🌐 Deployment
 
-### Production URLs
+### Production URL
 
-- **Frontend:** https://flow-wise-alpha.vercel.app
-- **Backend:** https://flowwise-production-a4ab.up.railway.app
+- https://flow-wise-alpha.vercel.app
 
 ### Quick Deploy
 
