@@ -1,5 +1,7 @@
 # Flowwise Dental 🦷
 
+> test Email: admin@7oranges.com Password: 9876543210
+
 > A modern, multi-tenant dental clinic management system built with TypeScript, Next.js, and Express.
 > Main [Case Study File](./CASE-STUDY.md) 
 
